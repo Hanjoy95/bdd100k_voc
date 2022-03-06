@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>bdd100k</folder>
+	<filename>4d86b954-23960e2e.jpg</filename>
+	<source>
+		<database>voc_bdd</database>
+		<annotation>bdd100k</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>lijing</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>482</ymin>
+			<xmax>625</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>482</ymin>
+			<xmax>660</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
